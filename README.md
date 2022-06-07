@@ -14,6 +14,7 @@ repositories {
 maven { url 'https://jitpack.io' }
   }
 }
+
 ````
 
 
@@ -22,6 +23,7 @@ Add the dependency
 
 ````
 dependencies {
-implementation 'com.github.AkmalAfzal07:drawMultipleLines:Tag'
+implementation 'com.github.AkmalAfzal07:drawMultipleLines:0.1.0'
 }
+
 ````
