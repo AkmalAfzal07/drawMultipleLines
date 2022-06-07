@@ -79,3 +79,20 @@ customDrawing?.setLineWidth(40F)
 
 #### To undo and redo lines
 
+To remove a line  
+````
+ findViewById<Button>(R.id.undo_btn).setOnClickListener { 
+            
+          customDrawing?.undo()
+    }
+   
+    ````
+    
+    To retreive a removed line
+    ````
+ findViewById<Button>(R.id.redo_btn).setOnClickListener { 
+            
+          customDrawing?.redo()
+    }
+   
+    ````
