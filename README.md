@@ -85,14 +85,13 @@ To remove a line
             
           customDrawing?.undo()
     }
-   
-    ````
+    
+ ````
     
     To retreive a removed line
-    ````
+ ````
  findViewById<Button>(R.id.redo_btn).setOnClickListener { 
             
           customDrawing?.redo()
     }
-   
-    ````
+     ````
