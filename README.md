@@ -100,7 +100,8 @@ customDrawing?.setLineWidth(40F)
   ## Screen shots
   #### I use this in another project as i show below
   ![WhatsApp Image 2022-06-07 at 10 59 07 AM]<img src="https://user-images.githubusercontent.com/72786046/172308242-79ecdaad-683c-4ec8-8383-35a89709abf3.jpeg" width="400" height="790">
-<!--  ![WhatsApp Image 2022-06-07 at 10 59 07 AM](https://user-images.githubusercontent.com/72786046/172308242-79ecdaad-683c-4ec8-8383-35a89709abf3.jpeg) -->
-![WhatsApp Image 2022-06-07 at 10 59 08 AM](https://user-images.githubusercontent.com/72786046/172308442-14556b4a-d36c-4a9d-a795-ca733110acbf.jpeg)
+
+ ![WhatsApp Image 2022-06-07 at 10 59 08 AM]<img src="https://user-images.githubusercontent.com/72786046/172308442-14556b4a-d36c-4a9d-a795-ca733110acbf.jpeg" width="400" height="790">
+
 
 ## Good Luck !
