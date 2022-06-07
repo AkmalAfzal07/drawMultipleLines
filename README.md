@@ -94,8 +94,9 @@ customDrawing?.setLineWidth(40F)
             
           customDrawing?.redo()
     }
+   
  ````
  
- ## Screen shots
- 
- ![alt text](https://github.com/[AkmalAfzal07]/[drawMultipleLines]/blob/[master]/image_one.jpg?raw=true)
+  ## Screen shots
+ ![WhatsApp Image 2022-06-07 at 10 59 07 AM](https://user-images.githubusercontent.com/72786046/172308242-79ecdaad-683c-4ec8-8383-35a89709abf3.jpeg)
+
