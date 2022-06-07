@@ -1,7 +1,7 @@
 # drawMultipleLines
 A library to draw multiple lines with desired line color and size on canvas just move your finger a line will follow your finger path.
--> set line size type:Foat
--> set line color type:Color
+###### -> set line size type:Foat
+###### -> set line color type:Color
 
 # Installation
 
