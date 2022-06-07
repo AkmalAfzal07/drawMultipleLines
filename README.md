@@ -95,3 +95,7 @@ customDrawing?.setLineWidth(40F)
           customDrawing?.redo()
     }
  ````
+ 
+ ## Screen shots
+ 
+ ![alt text](https://github.com/[AkmalAfzal07]/[drawMultipleLines]/blob/[master]/image_one.jpg?raw=true)
