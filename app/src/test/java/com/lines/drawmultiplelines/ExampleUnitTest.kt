@@ -1,4 +1,4 @@
-package com.example.drawmultiplelines
+package com.lines.drawmultiplelines
 
 import org.junit.Test
 

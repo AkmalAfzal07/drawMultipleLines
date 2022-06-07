@@ -1,4 +1,4 @@
-package com.example.drawmultiplelines
+package com.lines.drawmultiplelines
 
 import android.annotation.SuppressLint
 import android.content.Context
