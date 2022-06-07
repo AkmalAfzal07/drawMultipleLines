@@ -1,5 +1,5 @@
 # drawMultipleLines
-open source library to draw multiple lines on canvas
+open source library to draw multiple lines with desired line color and size on canvas
 
 # Installation
 
@@ -30,6 +30,7 @@ implementation 'com.github.AkmalAfzal07:drawMultipleLines:0.1.0'
 
 # Usage
 
+Add this in your your layout
 ````
 <com.example.drawmultiplelines.DrawingLineView
         android:layout_width="match_parent"
